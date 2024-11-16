@@ -2,7 +2,7 @@ import React from "react";
 
 /// static meta data
 export const metadata = {
-  title: "About My Study Next js page",
+  title: "About Study",
 };
 
 function AboutPage() {

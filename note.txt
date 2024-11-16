@@ -1,0 +1,5 @@
+Note !!!
+
+All React component in next js are server component by default !!!
+
+Hookes can only be used in client component

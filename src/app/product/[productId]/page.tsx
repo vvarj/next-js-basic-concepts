@@ -18,7 +18,7 @@ export const generateMetadata = async ({
   const titleText = await new Promise((resolve, reject) => {
     setTimeout(() => {
       resolve(`Iphone ${productId}`);
-    }, 5000);
+    }, 1000);
   });
 
   return {
